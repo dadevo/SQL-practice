@@ -35,7 +35,7 @@ The questions (answered in separate files) are as follows:
 30. Do students in the cyber security track have higher scores for the security exam than students in other tracks?
 31. List the average score amongst 17 year olds, 18 year olds, and so on.
 32. At what age do students score best?
-33, <skipped>
+33. <skipped>
 34. Find the student(s) with the longest last name and shortest first name.
 35. Find the student(s) with the shortest last name and longest first name.
 36. Find the student(s) with the shortest last name and longest first name in the data science track that failed at least 2 tests.

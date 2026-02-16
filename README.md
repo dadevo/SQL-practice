@@ -13,7 +13,7 @@ The questions (answered in separate files) are as follows:
 08. List all classes from highest scoring to lowest scoring, per track.
 09. List the teachers, ranked by highest scoring classes to lowest scoring classes.
 10. List the teachers, ranked by highest scoring student, to lowest scoring student.
-11. <skipped>
+11. Not a code question, skipped.
 12. Looking at scores, find the hardest subject.
 13. Looking at scores, find the easiest subject.
 14. Looking at scores, find the hardest subject per track.
@@ -24,7 +24,7 @@ The questions (answered in separate files) are as follows:
 19. Find the average score for the python exams of 2021.
 20. List the average score for the python exams of 2022 per track (that offers this exam).
 21. Since teachers are coupled with tracks, not subjects, generate a table of who teaches what. Include teacher ids and names.
-22. <skipped>
+22. Not a code question, skipped.
 23. Output one table per track at once, include only the students from the last class that was added to this track.
 24. Are there any students with duplicate names?
 25. If there are students with duplicate names, are they in the same track or even class?
@@ -35,7 +35,7 @@ The questions (answered in separate files) are as follows:
 30. Do students in the cyber security track have higher scores for the security exam than students in other tracks?
 31. List the average score amongst 17 year olds, 18 year olds, and so on.
 32. At what age do students score best?
-33. <skipped>
+33. Rank age groups by their performance the linux exam. Work with 'teens', 'twenties', 'thirties.
 34. Find the student(s) with the longest last name and shortest first name.
 35. Find the student(s) with the shortest last name and longest first name.
 36. Find the student(s) with the shortest last name and longest first name in the data science track that failed at least 2 tests.
